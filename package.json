@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.0",
+    "valine": "^1.4.14",
+    "vuepress": "^1.7.1",
+    "vuepress-plugin-comment": "^0.7.3"
+  }
+}
