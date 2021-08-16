@@ -1,6 +1,7 @@
 module.exports = {
     title: '黄粱一梦技术文档',
     description: '这是一个CSGO社区服务器技术相关文档',
+    base: '/serve-csgo/',
     head:[
       ['link', {rel:'shortcut icon', href:'/favicon.ico', type: 'image/jpg'}]
     ],
