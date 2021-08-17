@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: /hero.png
 heroText: CSGO 社区服务器搭建
 tagline: 这是一个社区服务器快速搭建指南
 actionText: 快速上手 →
