@@ -21,7 +21,11 @@ module.exports = {
             {
                 text: '关于',
                 link: '/about/'
-            }
+            },
+            {
+              text: '博客',
+              link: 'https://hlymcn.com'
+          }
         ],
         sidebar: [
         {
